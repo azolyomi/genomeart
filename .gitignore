@@ -208,3 +208,5 @@ __marimo__/
 
 # extra
 genomes/*
+
+.DS_Store
